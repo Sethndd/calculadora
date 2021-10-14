@@ -7,8 +7,8 @@
 
 
 # Calculadora de hipotenusa
-![Ejemplo 1](https://github.com/Sethndd/calculadora/blob/imagenes/Imagenes/example.png)
-![Ejemplo 2](https://github.com/Sethndd/calculadora/blob/imagenes/Imagenes/example2.png)
+![Ejemplo 1](https://github.com/Sethndd/calculadora/tree/master/imagenes/Imagenes/example.png)
+![Ejemplo 2](https://github.com/Sethndd/calculadora/tree/master/imagenes/Imagenes/example2.png)
 
 # Calculadora
 Proyecto forkaedo de AlonsoDelCid.
