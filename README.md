@@ -6,6 +6,10 @@
 **Matrícula:** S18012147<br>
 
 
-# Calculadora: 
+# Calculadora de hipotenusa
+![Ejemplo 1](https://github.com/Sethndd/calculadora/tree/master/imagenes/Imagenes/example.png)
+![Ejemplo 2](https://github.com/Sethndd/calculadora/tree/master/imagenes/Imagenes/example2.png)
+
+# Calculadora
 Proyecto forkaedo de AlonsoDelCid.
 Proyecto original: <https://github.com/AlonsoDelCid/calculadora>
